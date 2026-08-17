@@ -1,0 +1,12 @@
+{
+  "name": "navpioneers-cms",
+  "private": true,
+  "scripts": {
+    "studio": "sanity start --cwd cms",
+    "studio:deploy": "sanity deploy --cwd cms"
+  },
+  "devDependencies": {
+    "@sanity/vision": "^3.0.0",
+    "sanity": "^3.0.0"
+  }
+}

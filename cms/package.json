@@ -1,0 +1,9 @@
+{
+  "name": "navpioneers-studio",
+  "private": true,
+  "dependencies": {
+    "@sanity/vision": "^3.0.0",
+    "sanity": "^3.0.0",
+    "styled-components": "^6.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" role="img" aria-label="Vehicle dashboard bezel">
+  <rect width="200" height="120" rx="12" fill="#e4eef5"/>
+  <path d="M28 25h144l13 17v40l-13 13H28L15 82V42z" fill="#293f52"/>
+  <rect x="48" y="37" width="104" height="48" rx="4" fill="#a8c3d7"/>
+  <rect x="55" y="43" width="90" height="36" rx="2" fill="#edf5f9"/>
+  <circle cx="32" cy="60" r="5" fill="#a8c3d7"/><circle cx="168" cy="60" r="5" fill="#a8c3d7"/>
+</svg>
