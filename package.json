@@ -3,7 +3,8 @@
   "private": true,
   "scripts": {
     "studio": "sanity start --cwd cms",
-    "studio:deploy": "sanity deploy --cwd cms"
+    "studio:deploy": "sanity deploy --cwd cms",
+    "studio:seed": "sanity exec scripts/importInitialCatalog.js --with-user-token --cwd cms"
   },
   "devDependencies": {
     "@sanity/vision": "^3.0.0",
